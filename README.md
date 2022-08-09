@@ -7,7 +7,7 @@ Package license: Apache-2.0
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/ipyvizzu-story-feedstock/blob/main/LICENSE.txt)
 
-Summary: Create and present animated data stories within data science notebooks.
+Summary: Animated Chart Presentation in Jupyter Notebook.
 
 Development: https://github.com/vizzuhq/ipyvizzu-story
 
@@ -17,7 +17,7 @@ Create and present animated data stories within data science notebooks.
 
 [![gif][_gif]](https://vizzuhq.github.io/ipyvizzu-story)
 
-[_gif]: https://github.com/vizzuhq/ipyvizzu-story/raw/main/docs/examples/demo/ipyvizzu-story_example.gif
+[_gif]: https://github.com/vizzuhq/ipyvizzu-story/raw/main/docs/examples/demo/ipyvizzu-story.gif
 
 PyPI: [https://badge.fury.io/py/ipyvizzu-story](https://badge.fury.io/py/ipyvizzu-story)
 
