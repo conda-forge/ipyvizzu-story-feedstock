@@ -157,4 +157,5 @@ Feedstock Maintainers
 =====================
 
 * [@sugatoray](https://github.com/sugatoray/)
+* [@veghdev](https://github.com/veghdev/)
 
