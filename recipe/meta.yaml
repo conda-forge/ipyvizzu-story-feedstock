@@ -10,7 +10,7 @@ source:
   sha256: f56e92573e14812ca8280bec4e6615f69f1f66eea8f6b6306dff02fe811c00f2
 
 build:
-  number: 0
+  number: 1
   noarch: python
   script: {{ PYTHON }} -m pip install . -vv
 
@@ -51,3 +51,5 @@ about:
 extra:
   recipe-maintainers:
     - sugatoray
+    # maintainers from upstream repo
+    - veghdev
