@@ -10,7 +10,7 @@ source:
   sha256: 15fe77feadef05724ef45105d8fd7f75acb954586ab64aa1664f3268c5fa9dad
 
 build:
-  number: 0
+  number: 1
   noarch: python
   script: {{ PYTHON }} -m pip install . -vv
 
@@ -37,7 +37,7 @@ about:
   license_file:
     - LICENSE
   description: |
-    Create and present animated data stories within data science notebooks.
+    Animated Chart Presentation in Jupyter Notebook.
 
     [![gif][_gif]](https://vizzuhq.github.io/ipyvizzu-story)
 
