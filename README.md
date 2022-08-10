@@ -13,7 +13,7 @@ Development: https://github.com/vizzuhq/ipyvizzu-story
 
 Documentation: https://vizzuhq.github.io/ipyvizzu-story
 
-Create and present animated data stories within data science notebooks.
+Animated Chart Presentation in Jupyter Notebook.
 
 [![gif][_gif]](https://vizzuhq.github.io/ipyvizzu-story)
 
