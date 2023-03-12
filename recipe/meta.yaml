@@ -1,5 +1,5 @@
 {% set name = "ipyvizzu-story" %}
-{% set version = "0.5.0" %}
+{% set version = "0.6.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/ipyvizzu-story-{{ version }}.tar.gz
-  sha256: 794fdc952e528aa2acb3ea0031c4ea9425638330117456bf124af9c1004f0f04
+  sha256: fad226be284786b70b2426a954d8ff015887eba50ec9aa93eb24e5931806cdab
 
 build:
   number: 0
