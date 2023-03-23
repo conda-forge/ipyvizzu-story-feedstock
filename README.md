@@ -3,7 +3,7 @@ About ipyvizzu-story-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/ipyvizzu-story-feedstock/blob/main/LICENSE.txt)
 
-Home: https://github.com/vizzuhq/ipyvizzu-story
+Home: https://ipyvizzu-story.vizzuhq.com
 
 Package license: Apache-2.0
 
