@@ -7,17 +7,17 @@ Home: https://github.com/vizzuhq/ipyvizzu-story
 
 Package license: Apache-2.0
 
-Summary: Animated Chart Presentation in Jupyter Notebook.
+Summary: Build, present and share animated data stories in Jupyter Notebook and similar environments.
 
 Development: https://github.com/vizzuhq/ipyvizzu-story
 
-Documentation: https://vizzuhq.github.io/ipyvizzu-story
+Documentation: https://ipyvizzu-story.vizzuhq.com
 
-Animated Chart Presentation in Jupyter Notebook.
+Build, present and share animated data stories in Jupyter Notebook and similar environments.
 
-[![gif][_gif]](https://vizzuhq.github.io/ipyvizzu-story)
+[![gif][_gif]](https://ipyvizzu-story.vizzuhq.com)
 
-[_gif]: https://github.com/vizzuhq/ipyvizzu-story/raw/main/docs/examples/demo/ipyvizzu-story.gif
+[_gif]: https://ipyvizzu-story.vizzuhq.com/latest/assets/ipyvizzu-story.gif
 
 PyPI: [https://badge.fury.io/py/ipyvizzu-story](https://badge.fury.io/py/ipyvizzu-story)
 
