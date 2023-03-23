@@ -31,7 +31,7 @@ test:
     - pip
 
 about:
-  home: https://github.com/vizzuhq/ipyvizzu-story
+  home: https://ipyvizzu-story.vizzuhq.com
   summary: Build, present and share animated data stories in Jupyter Notebook and similar environments.
   license: Apache-2.0
   license_file:
