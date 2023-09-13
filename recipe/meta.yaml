@@ -1,5 +1,5 @@
 {% set name = "ipyvizzu-story" %}
-{% set version = "0.7.0" %}
+{% set version = "0.8.0" %}
 
 package:
   name: {{ name|lower }}
@@ -16,8 +16,9 @@ build:
 
 requirements:
   host:
-    - pip
     - python >=3.6
+    - pip
+    - pdm-backend
   run:
     - python >=3.6
     - ipyvizzu
